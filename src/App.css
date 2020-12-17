@@ -2,7 +2,7 @@
   text-align: center;
 }
 .App code {
-  background: #FFF3;
+  background: #fff3;
   padding: 4px 8px;
   border-radius: 4px;
 }
@@ -42,4 +42,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+code {
+  background-color: coral !important;
 }

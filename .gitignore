@@ -2,3 +2,13 @@
 build
 web_modules
 node_modules
+
+# Yarn / NPM #
+.DS_*
+*.log
+logs
+
+# VisualStudioCode #
+.history
+!.vscode/tasks.json
+!.vscode/launch.json
