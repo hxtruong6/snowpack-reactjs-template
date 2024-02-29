@@ -2,7 +2,7 @@ repo_name: hxtruong6/snowpack-reactjs-template
 report_id: 49ac28a83fcc923ba3abe8911012ba26
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:45:35+00:00'
+timestamp: '2024-02-29T18:43:34+00:00'
 requested_by: hxtruong6
 provider: github
 branch: main
@@ -106,7 +106,7 @@ tools:
   detection_source_url: https://github.com/hxtruong6/snowpack-reactjs-template
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
